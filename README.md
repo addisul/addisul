@@ -1,6 +1,6 @@
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtlNWR6ZTNoempycnY0OW43eGY1MDA1YXoyNzJpNzRkYWJ1ZWhsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Addisu</h1>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/MeLfE0TIakXSvAWQgrnxvNPBo2i2Tjg7lUS77yNiK0w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL1dzNlQ1/UE43d0h2M2NZOHh5/OC8yMDAuZ2lmP2Np/ZD03OTBiNzYxMXdz/Y2NmZ29qcXd1ZDBj/a2hwcXVvb3h0dDkw/bmc5Zzgyb3VzZXBl/eTQmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtlNWR6ZTNoempycnY0OW43eGY1MDA1YXoyNzJpNzRkYWJ1ZWhsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addisul&label=Profile%20views&color=0e75b6&style=flat" alt="addisul" /> </p>
 
