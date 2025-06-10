@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addisul&label=Profile%20views&color=0e75b6&style=flat" alt="addisul" /> </p>
 
-- 📖 I’m currently learning **C**
-
-- 📫 How to reach me **addisu808@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/addisul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="addisu-l-7879782b7" height="30" width="40" /></a>
@@ -17,5 +13,7 @@
 
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm83djVlMmEyN3BncG15eHpudW1ibXQ4bzJrMWRjc3IxMmg5Z29jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif" width="210%" height="210%"/></p>
 
+
+ reach me @ **addisu808@gmail.com**
  
 
