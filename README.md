@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addisul&label=Profile%20views&color=0e75b6&style=flat" alt="addisul" /> </p>
 
-<p align="center"> I am aspiring electrical engineer with a background rooted in robotics. I am passionate about introducing my own nuances, adapting to specific needs, analyzing complex problems, and providing creative solutions. I am interested in using C/C++ in embedded systems.
+<p align="center"> I am an electrical engineering student with a background rooted in robotics. I am passionate about introducing my own nuances, adapting to specific needs, analyzing complex problems, and providing creative solutions. I am interested in using C/C++ in embedded systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
