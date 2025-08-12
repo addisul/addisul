@@ -16,9 +16,7 @@
  <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="C++" width="32" height="36"/> </a> 
  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/> </a></p>
 
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm83djVlMmEyN3BncG15eHpudW1ibXQ4bzJrMWRjc3IxMmg5Z29jaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif" width="210%" height="210%"/></p>
 
-
- reach me @ **addisu808@gmail.com**
+ contact me @ **addisu808@gmail.com**
  
 
