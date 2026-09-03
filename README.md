@@ -17,6 +17,6 @@
  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/> </a></p>
 
 
- contact me @ **addisu808@gmail.com**
+ contact me @ **addisu808@gmail.com** or **alococo@binghamton.edu**
  
 
